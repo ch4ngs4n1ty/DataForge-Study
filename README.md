@@ -13,6 +13,8 @@ Every slide word-for-word · every lecture narrated · every question traced bac
 ![Dependencies](https://img.shields.io/badge/dependencies-0-2ea44f)
 ![Offline](https://img.shields.io/badge/works-offline-2ea44f)
 
+### 🌐 [**Open the live app →**](https://ch4ngs4n1ty.github.io/DataForge-Study/)
+
 </div>
 
 ![Dashboard](docs/dashboard.png)
